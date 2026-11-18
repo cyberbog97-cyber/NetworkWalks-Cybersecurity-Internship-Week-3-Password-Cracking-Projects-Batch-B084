@@ -1,7 +1,5 @@
 # NetworkWalks-Cybersecurity-Internship-Week-3-Password-Cracking-Projects-Batch-B084
 
-# NetworkWalks Cybersecurity Internship – Week 3
-## Password Cracking Projects | Batch B084
 
 Welcome to my Week 3 practical projects completed as part of the NetworkWalks Cybersecurity & Ethical Hacking Internship.
 
